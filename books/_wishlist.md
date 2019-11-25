@@ -13,6 +13,7 @@
 * [Difficult Conversations: How to Discuss What Matters Most - Douglas Stone](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters-ebook/dp/B004CR6ALA/ref=sr_1_1?crid=WP11H5B5EBM0&keywords=difficult+conversations&qid=1574673669&s=digital-text&sprefix=difficult+conversations%2Cdigital-text%2C237&sr=1-1)
 * [Crucial Conversations Tools for Talking When Stakes Are High, Second Edition - Kerry Patterson](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second-ebook/dp/B005K0AYH4/ref=sr_1_1?crid=23V1FJO5GT15M&keywords=crucial+conversations&qid=1574673770&s=digital-text&sprefix=crucial+conversations%2Cdigital-text%2C242&sr=1-1)
 * [Overcoming the Five Dysfunctions of a Team: A Field Guide for Leaders, Managers, and Facilitators - Patrick M. Lencioni](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second-ebook/dp/B005K0AYH4/ref=sr_1_1?crid=23V1FJO5GT15M&keywords=crucial+conversations&qid=1574673770&s=digital-text&sprefix=crucial+conversations%2Cdigital-text%2C242&sr=1-1)
+* [Talking with Tech Leads: From Novices to Practitioners - Patrik Kua](https://www.amazon.com/Talking-Tech-Leads-Novices-Practitioners-ebook/dp/B014Q2C4M4/ref=sr_1_1?keywords=talking+with+tech+leads&qid=1574674225&s=digital-text&sr=1-1)
 
 ## Self-knowledge
 * [StrengthsFinder 2.0 - Tom Rath](https://www.amazon.com/StrengthsFinder-2-0-Tom-Rath/dp/159562015X)
